@@ -1,0 +1,2 @@
+# gittuto
+just learning git 
