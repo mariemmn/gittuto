@@ -1,2 +1,5 @@
 # gittuto
-just learning git 
+
+================
+just learning git
+if better is possible then good is not enough
